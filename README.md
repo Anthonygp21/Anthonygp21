@@ -8,15 +8,7 @@
 * **🏀 Sports Lover ⚽**
 * *🙏 "Even though I walk through the darkest valley, I will fear no evil, for you are with me; your rod and your staff, they comfort me."* 
 > — **Psalm 23:4**
-
-
-
-
-> *"Even though I walk through the darkest valley, I will fear no evil, for you are with me; your rod and your staff, they comfort me."* 
-> — **Psalm 23:4**
->
-
-
+> 
 > ![GitHub commit activity](https://img.shields.io/github/commit-activity/m/Anthonygp21/Anthonygp21)
 >
 > 
