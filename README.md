@@ -1,16 +1,22 @@
-## Hi there 👋
+# Hello, welcome to my profile! 👋
 
-<!--
-**Anthonygp21/Anthonygp21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## I'm Anthony Guerrero
 
-Here are some ideas to get you started:
+### 🏗️ About me:
+* **👷‍♂️ Civil Engineer**
+* **📊 Data Analysis Student**
+* **🏀 Sports Lover ⚽**
+* *🙏 "Even though I walk through the darkest valley, I will fear no evil, for you are with me; your rod and your staff, they comfort me."* 
+> — **Psalm 23:4**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+
+> *"Even though I walk through the darkest valley, I will fear no evil, for you are with me; your rod and your staff, they comfort me."* 
+> — **Psalm 23:4**
+>
+
+
+> ![GitHub commit activity](https://img.shields.io/github/commit-activity/m/Anthonygp21/Anthonygp21)
+>
+> 
