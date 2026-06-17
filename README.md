@@ -11,4 +11,7 @@
 > 
 > ![GitHub commit activity](https://img.shields.io/github/commit-activity/m/Anthonygp21/Anthonygp21)
 >
-> 
+
+> ### ⚡ Recent Activity
+<!--RECENT_ACTIVITY:start-->
+<!--RECENT_ACTIVITY:last_update--> 
