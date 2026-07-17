@@ -4,7 +4,7 @@
 
 ### 🏗️ About me:
 * **👷‍♂️ Civil Engineer**
-* **📊 Data Analysis Student**
+* **📊 Data Analysis **
 * **🏀 Sports Lover ⚽**
 * *🙏 "Even though I walk through the darkest valley, I will fear no evil, for you are with me; your rod and your staff, they comfort me."* 
 > — **Psalm 23:4**
