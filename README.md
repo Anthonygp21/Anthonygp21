@@ -19,7 +19,7 @@
 Ingeniero Civil con una base sólida en matemáticas, análisis cuantitativo y resolución de
 problemas, ahora enfocado en el **análisis de datos y la inteligencia de negocio**. Mi formación
 en ingeniería me entrenó para interpretar datos complejos, optimizar recursos y tomar decisiones
-basadas en evidencia — que es justamente el corazón del trabajo de un Data Analyst.
+basadas en evidencia que es justamente el corazón del trabajo de un Data Analyst.
 
 Complemento esa base con herramientas modernas de datos a través de las rutas de **Platzi** en
 *Data Analysis & Visualization* y *Data Science & AI Foundations*. Me apasiona transformar datos
