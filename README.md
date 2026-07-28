@@ -1,8 +1,8 @@
-<h1 align="center">Hola, soy Anthony Guerrero 👋</h1>
+<h1 align="center">Hi, I'm Anthony Guerrero 👋</h1>
 
 <p align="center">
-  <b>Data Analyst &amp; Business Intelligence</b> · Ingeniero Civil<br>
-  Convierto datos en decisiones. Loja, Ecuador · Inglés B2 · Abierto a trabajo remoto
+  <b>Data Analyst &amp; Business Intelligence</b> · Civil Engineer<br>
+  Turning data into decisions. Loja, Ecuador · English B2 · Open to remote work
 </p>
 
 <p align="center">
@@ -14,18 +14,18 @@
 
 ---
 
-## 🎯 Sobre mí
+## 🎯 About me
 
-Ingeniero Civil con una base sólida en matemáticas, análisis cuantitativo y resolución de
-problemas, ahora enfocado en el **análisis de datos y la inteligencia de negocio**. Mi formación
-en ingeniería me entrenó para interpretar datos complejos, optimizar recursos y tomar decisiones
-basadas en evidencia que es justamente el corazón del trabajo de un Data Analyst.
+Civil Engineer with a strong foundation in mathematics, quantitative analysis, and problem
+solving, now focused on **data analysis and business intelligence**. My engineering background
+trained me to interpret complex data, optimize resources, and make evidence-based decisions
+which is exactly the core of a Data Analyst's job.
 
-Complemento esa base con herramientas modernas de datos a través de las rutas de **Platzi** en
-*Data Analysis & Visualization* y *Data Science & AI Foundations*. Me apasiona transformar datos
-crudos en conclusiones accionables que mejoren la toma de decisiones.
+I complement that foundation with modern data tools through Platzi's **Data Analysis &
+Visualization** and **Data Science & AI Foundations** career paths. I'm passionate about turning
+raw data into actionable insights that improve decision-making.
 
-## 🧰 Habilidades
+## 🧰 Skills
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
@@ -40,34 +40,35 @@ crudos en conclusiones accionables que mejoren la toma de decisiones.
 ![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=flat&logo=plotly&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 
-- **Análisis:** limpieza y preparación de datos, análisis exploratorio, modelado dimensional (esquema estrella)
-- **Lenguajes/herramientas:** Python (Pandas, NumPy), SQL, Power BI, Excel
-- **Visualización:** Matplotlib, Seaborn, Plotly, Power BI
-- **Productos de datos:** aplicaciones interactivas con Streamlit, consumo de APIs REST
-- **Buenas prácticas:** pipelines reproducibles, pruebas automatizadas, control de versiones con Git/GitHub
+- **Analysis:** data cleaning and preparation, exploratory data analysis, dimensional modeling (star schema)
+- **Languages/tools:** Python (Pandas, NumPy), SQL, Power BI, Excel
+- **Visualization:** Matplotlib, Seaborn, Plotly, Power BI
+- **Data products:** interactive apps with Streamlit, REST API consumption
+- **Best practices:** reproducible pipelines, automated testing, version control with Git/GitHub
 
-## 📊 Proyectos destacados
+## 📊 Featured projects
 
-| Proyecto | Descripción | Herramientas |
+| Project | Description | Tools |
 |---|---|---|
-| **[Dashboard de indicadores de América Latina](https://github.com/Anthonygp21/latam-indicadores-dashboard)** | Aplicación web interactiva con datos reales del Banco Mundial: 19 países, 8 indicadores socioeconómicos, filtros, KPIs y comparaciones en tiempo real. | Python · Streamlit · Plotly · API REST |
-| **[Retrasos de entrega y satisfacción (Olist)](https://github.com/Anthonygp21/olist-ecommerce-customer-analytics)** | Análisis de 96.470 pedidos reales de un e-commerce de Brasil: cuantifico cómo un retraso hunde la calificación del cliente, localizo el cuello de botella y estimo el ingreso en riesgo. | Python · SQL · Power BI · Excel |
-| **[Sector construcción en Ecuador (INEC)](https://github.com/Anthonygp21/construccion-ecuador-data-analysis)** | Análisis de ~109.000 permisos de construcción oficiales del INEC (2011–2014): inversión por provincia, materiales, tipos de obra y estacionalidad. | Python · SQL · SQLite · Power BI |
+| **[Latin America Indicators Dashboard](https://github.com/Anthonygp21/latam-indicadores-dashboard)** | Interactive web app with real World Bank data: 19 countries, 8 socioeconomic indicators, filters, KPIs, and real-time comparisons. | Python · Streamlit · Plotly · REST API |
+| **[Delivery Delays & Customer Satisfaction (Olist)](https://github.com/Anthonygp21/olist-ecommerce-customer-analytics)** | Analysis of 96,470 real orders from a Brazilian e-commerce marketplace: quantifying how a delay tanks customer ratings, pinpointing the bottleneck, and estimating revenue at risk. | Python · SQL · Power BI · Excel |
+| **[Ecuador's Construction Sector (INEC)](https://github.com/Anthonygp21/construccion-ecuador-data-analysis)** | Analysis of ~109,000 official construction permits from Ecuador's national statistics institute (2011-2014): investment by province, materials, project types, and seasonality. | Python · SQL · SQLite · Power BI |
+| **[Growth & Product Analytics (Fintech App)](https://github.com/Anthonygp21/fintech-app-growth-analytics)** | Multichannel acquisition and product-funnel analysis: the "cheapest" channel turns out to be the most expensive once you measure true activation, plus a quantified impact simulation of the recommended decisions. | Python · Pandas · SciPy · Matplotlib/Seaborn |
 
-## 📈 Estadísticas de GitHub
+## 📈 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Anthonygp21&show_icons=true&hide_border=true&count_private=true" alt="stats" height="165">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anthonygp21&layout=compact&hide_border=true" alt="top langs" height="165">
 </p>
 
-## 📫 Contacto
+## 📫 Contact
 
 - **LinkedIn:** [anthony-guerrero-245ab7188](https://www.linkedin.com/in/anthony-guerrero-245ab7188)
 - **Email:** anthonyggp@outlook.es
-- **Ubicación:** Loja, Ecuador · Disponible para trabajo remoto
+- **Location:** Loja, Ecuador · Available for remote work
 
-<p align="center"><i>Abierto a oportunidades como Data Analyst / BI Analyst.</i></p>
+<p align="center"><i>Open to opportunities as a Data Analyst / BI Analyst.</i></p>
 
 ### ⚡ Recent Activity
 <!--RECENT_ACTIVITY:start-->
