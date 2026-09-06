@@ -71,5 +71,5 @@ raw data into actionable insights that improve decision-making.
 <p align="center"><i>Open to opportunities as a Data Analyst / BI Analyst.</i></p>
 
 ### ⚡ Recent Activity
-<!--RECENT_ACTIVITY:start-->
-<!--RECENT_ACTIVITY:last_update-->
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
