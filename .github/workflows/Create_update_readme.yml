@@ -17,7 +17,8 @@ jobs:
       - uses: actions/checkout@v4
 
       - uses: jamesgeorge007/github-activity-readme@master
-        with:
+        env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        with:
           COMMIT_MSG: "chore: update README with recent activity"
           MAX_LINES: 5
