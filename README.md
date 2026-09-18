@@ -64,13 +64,6 @@ raw data into actionable insights that improve decision-making.
 - [construccion-ecuador-data-analysis](https://github.com/Anthonygp21/construccion-ecuador-data-analysis) — Analysis of Ecuador's construction permits (INEC 2011-2014) · Jupyter Notebook
 - [fintech-app-growth-analytics](https://github.com/Anthonygp21/fintech-app-growth-analytics) — Growth and product analytics for a fintech app: real vs. superficial CAC, product funnel, decision impact · Jupyter Notebook
 
-**🤖 Automation & tools**
-
-- [chateapro-mcp](https://github.com/Anthonygp21/chateapro-mcp) — MCP server exposing a curated, safety-gated subset of the Chatea Pro API for Claude Code / Claude Desktop · Python
-- [skill-validar-direcciones](https://github.com/Anthonygp21/skill-validar-direcciones) — Claude Code skill that validates delivery addresses of pending orders before dispatch · Python
-- [skill-transportadora](https://github.com/Anthonygp21/skill-transportadora) — Claude Code skill that assigns the optimal courier to each pending order · Python
-- [automatizacion-dropi-chateapro](https://github.com/Anthonygp21/automatizacion-dropi-chateapro) — Claude Code skill for the daily review of pending-confirmation orders using Dropi and Chatea Pro · Python
-
 **🧪 Learning & practice**
 
 - [quintoRepo](https://github.com/Anthonygp21/quintoRepo) — My first pip package · Python
@@ -98,5 +91,4 @@ raw data into actionable insights that improve decision-making.
 
 ### ⚡ Recent Activity
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#1](https://github.com/Anthonygp21/chateapro-mcp/pull/1) in [Anthonygp21/chateapro-mcp](https://github.com/Anthonygp21/chateapro-mcp)
 <!--END_SECTION:activity-->
