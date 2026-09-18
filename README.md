@@ -55,6 +55,32 @@ raw data into actionable insights that improve decision-making.
 | **[Ecuador's Construction Sector (INEC)](https://github.com/Anthonygp21/construccion-ecuador-data-analysis)** | Analysis of ~109,000 official construction permits from Ecuador's national statistics institute (2011-2014): investment by province, materials, project types, and seasonality. | Python · SQL · SQLite · Power BI |
 | **[Growth & Product Analytics (Fintech App)](https://github.com/Anthonygp21/fintech-app-growth-analytics)** | Multichannel acquisition and product-funnel analysis: the "cheapest" channel turns out to be the most expensive once you measure true activation, plus a quantified impact simulation of the recommended decisions. | Python · Pandas · SciPy · Matplotlib/Seaborn |
 
+## 🗂️ All public repositories
+
+**📊 Data analysis**
+
+- [latam-indicadores-dashboard](https://github.com/Anthonygp21/latam-indicadores-dashboard) — Interactive dashboard of Latin American socioeconomic indicators (World Bank) · Python
+- [olist-ecommerce-customer-analytics](https://github.com/Anthonygp21/olist-ecommerce-customer-analytics) — Impact of delivery delays on customer satisfaction (Olist, Brazil) · Jupyter Notebook
+- [construccion-ecuador-data-analysis](https://github.com/Anthonygp21/construccion-ecuador-data-analysis) — Analysis of Ecuador's construction permits (INEC 2011-2014) · Jupyter Notebook
+- [fintech-app-growth-analytics](https://github.com/Anthonygp21/fintech-app-growth-analytics) — Growth and product analytics for a fintech app: real vs. superficial CAC, product funnel, decision impact · Jupyter Notebook
+
+**🤖 Automation & tools**
+
+- [chateapro-mcp](https://github.com/Anthonygp21/chateapro-mcp) — MCP server exposing a curated, safety-gated subset of the Chatea Pro API for Claude Code / Claude Desktop · Python
+- [skill-validar-direcciones](https://github.com/Anthonygp21/skill-validar-direcciones) — Claude Code skill that validates delivery addresses of pending orders before dispatch · Python
+- [skill-transportadora](https://github.com/Anthonygp21/skill-transportadora) — Claude Code skill that assigns the optimal courier to each pending order · Python
+- [automatizacion-dropi-chateapro](https://github.com/Anthonygp21/automatizacion-dropi-chateapro) — Claude Code skill for the daily review of pending-confirmation orders using Dropi and Chatea Pro · Python
+
+**🧪 Learning & practice**
+
+- [quintoRepo](https://github.com/Anthonygp21/quintoRepo) — My first pip package · Python
+- [miCuartoRepo](https://github.com/Anthonygp21/miCuartoRepo) — Repo created from the CLI · Python
+- [miTercerRepo](https://github.com/Anthonygp21/miTercerRepo) — Created from my CLI
+- [miSegundoRepo](https://github.com/Anthonygp21/miSegundoRepo) — Practice repo
+- [miPrimerRepo](https://github.com/Anthonygp21/miPrimerRepo) — My first repo · C#
+- [Anthonygp21.github.io](https://github.com/Anthonygp21/Anthonygp21.github.io) — GitHub Pages test site
+- [git-github](https://github.com/Anthonygp21/git-github) — Fork of the Git & GitHub course repository · HTML
+
 ## 📈 GitHub Stats
 
 <p align="center">
